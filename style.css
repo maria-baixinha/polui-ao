@@ -20,12 +20,12 @@ body {
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 250px;
-    font-size: 250px;
+    margin: 0 50px;
+    font-size: 50px;
 }
 
 .ambiente-imagem{
-    width: 55%;
+    width: 50%;
 }
 
 .ambiente{
