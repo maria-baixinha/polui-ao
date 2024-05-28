@@ -47,25 +47,25 @@ body {
 }
 
 .projeto{
-    padding: 55px 0;
+    padding: 250px 0;
 }
 .projeto-imagem{
-    width: 55px;
+    width: 250px;
 }
 
 .projeto-icone{
-    width: 55px;
-    padding: 55px 8px;
+    width: 250px;
+    padding: 250px 8px;
 }
 
 .projeto-div{
     text-align: center;
-    padding: 55px 0;
+    padding: 250px 0;
 }
 
 .projeto-titulo{
     text-align: center;
-    padding: 55px 0;
+    padding: 250px 0;
 }
 
 .projeto-todos{
@@ -79,7 +79,7 @@ body {
 }
 
 .rodape-imagem{
-    height: 55px;
+    height: 250px;
     padding: 250px 0;
    
 }
