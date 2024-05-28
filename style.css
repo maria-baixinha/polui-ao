@@ -11,21 +11,21 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 30px 0;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem{
-    width: 50%;
+    width: 10%;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 50px;
-    font-size: 50px;
+    margin: 16px;
+    font-size: 16px;
 }
 
 .ambiente-imagem{
-    width: 50%;
+    width: 25%;
 }
 
 .ambiente{
@@ -38,34 +38,34 @@ body {
 }
 
 .ambiente-div-conteudo{
-    width: 50%;
+    width: 35%;
 }
 
 
 .ambiente-titulo{
-    padding: 50px 0;
+    padding: 24px 0;
 }
 
 .projeto{
-    padding: 50px 0;
+    padding: 24px 0;
 }
 .projeto-imagem{
-    width: 350px;
+    width: 260px;
 }
 
 .projeto-icone{
-    width: 250px;
-    padding: 250px 8px;
+    width: 24px;
+    padding: 4px 8px;
 }
 
 .projeto-div{
     text-align: center;
-    padding: 250px 0;
+    padding: 16px 0;
 }
 
 .projeto-titulo{
     text-align: center;
-    padding: 250px 0;
+    padding: 50px 0;
 }
 
 .projeto-todos{
@@ -79,7 +79,7 @@ body {
 }
 
 .rodape-imagem{
-    height: 250px;
-    padding: 250px 0;
+    height: 60px;
+    padding: 12px 0;
    
 }
